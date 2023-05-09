@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Приклад класів без тегів</title>
+	<style>
+		.section-title {
+			font-size: 24px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+
+		.text {
+			font-size: 18px;
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
+
+		.note {
+			font-size: 14px;
+			font-style: italic;
+			color: gray;
+			margin-top: 5px;
+		}
+	</style>
+</head>
+<body>
+	<div class="section-title">Розділ 1</div>
+	<p class="text">Це текст першого розділу. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis suscipit tortor. Sed in tellus vel mi faucibus luctus sit amet vel justo. Sed vel odio sed ex congue elementum. Donec tristique vel sapien non scelerisque. Aliquam erat volutpat.</p>
+	<p class="note">Примітка: цей текст є умовним і не пов'язаний з жодним реальним контентом.</p>
+
+	<div class="section-title">Розділ 2</div>
+	<p class="text">Це текст другого розділу. Morbi id faucibus nisi. Fusce quis justo tellus. Donec quis quam sed arcu mollis feugiat a id sapien. Nunc in metus eget purus consequat pretium a id mi. Duis eu augue ut enim dapibus auctor ac sed sapien. Sed eu tincidunt quam, ac aliquam orci.</p>
+	<p class="note">Примітка: цей текст є умовним і не пов'язаний з жодним реальним контентом.</p>
+
+	<div class="section-title">Розділ 3</div>
+	<p class="text">Це текст третього розділу. Etiam euismod, augue a vulputate pellentesque, nibh lectus maximus metus, quis malesuada quam risus eu risus. Phasellus vel risus ac elit lacinia viverra at sit amet arcu. Duis dapibus, elit in vulputate luctus, velit nibh venenatis velit, ut euismod nisl odio ac libero.</p>
+	<p class="note">Примітка: цей текст є умовним і не пов'язаний з жодним реальним контентом.</p>
+</body>
+</html>
